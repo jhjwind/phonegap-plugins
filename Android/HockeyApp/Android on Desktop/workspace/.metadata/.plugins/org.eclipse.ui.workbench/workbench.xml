@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="14" version="2.0">
+<workbench progressCount="24" version="2.0">
 <workbenchAdvisor/>
-<window height="855" width="1470" x="157" y="108">
+<window height="855" width="1470" x="78" y="78">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -42,28 +42,29 @@
 </folder>
 </info>
 </editorArea>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="AndroidManifest.xml" partName="AndroidManifest.xml" path="/Users/owenbrotherwood/Desktop/workspace/PhoneGapHockeyAppPlugin/AndroidManifest.xml" title="AndroidManifest.xml" tooltip="PhoneGapHockeyAppPlugin/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PhoneGapHockeyAppPlugin/AndroidManifest.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1732" selectionTopPixel="48"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhoneGapHockeyAppPluginActivity.java" partName="PhoneGapHockeyAppPluginActivity.java" path="/Users/owenbrotherwood/Desktop/workspace/PhoneGapHockeyAppPlugin/src/com/moxoed/PhoneGapHockeyAppPlugin/PhoneGapHockeyAppPluginActivity.java" title="PhoneGapHockeyAppPluginActivity.java" tooltip="PhoneGapHockeyAppPlugin/src/com/moxoed/PhoneGapHockeyAppPlugin/PhoneGapHockeyAppPluginActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PhoneGapHockeyAppPlugin/src/com/moxoed/PhoneGapHockeyAppPlugin/PhoneGapHockeyAppPluginActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="699" selectionTopPixel="0"/>
+</editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" partName="MainActivity.java" path="/Users/owenbrotherwood/Desktop/TheRealKerni-HockeyKit-003774b/demo/Android/src/net/hockeyapp/android/demo/MainActivity.java" title="MainActivity.java" tooltip="HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="876" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="67" selectionOffset="980" selectionTopPixel="282"/>
 </editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="index.html" partName="index.html" path="/Users/owenbrotherwood/Desktop/workspace/HockeyApp/assets/www/index.html" title="index.html" tooltip="HockeyApp/assets/www/index.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HockeyApp/assets/www/index.html"/>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="index.html" partName="index.html" path="/Users/owenbrotherwood/Desktop/workspace/PhoneGapHockeyAppPlugin/assets/www/index.html" title="index.html" tooltip="PhoneGapHockeyAppPlugin/assets/www/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PhoneGapHockeyAppPlugin/assets/www/index.html"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="180" selectionTopPixel="0"/>
-</editor>
-<editor id="org.eclipse.ui.DefaultTextEditor" name="AndroidManifest.xml" partName="AndroidManifest.xml" path="/Users/owenbrotherwood/Desktop/workspace/HockeyApp/AndroidManifest.xml" title="AndroidManifest.xml" tooltip="HockeyApp/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HockeyApp/AndroidManifest.xml"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2185" selectionTopPixel="93"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HockeyAppActivity.java" partName="HockeyAppActivity.java" path="/Users/owenbrotherwood/Desktop/workspace/HockeyApp/src/com/moxoed/HockeyAppActivity.java" title="HockeyAppActivity.java" tooltip="HockeyApp/src/com/moxoed/HockeyAppActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HockeyApp/src/com/moxoed/HockeyAppActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="790" selectionTopPixel="20"/>
 </editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Errors (5 items)"/>
+<category IMemento.internal.id="Errors (8 items)"/>
+<category IMemento.internal.id="Warnings"/>
 <category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="443"/>
@@ -112,7 +113,7 @@
 <view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -196,7 +197,7 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="254" ratioRight="762" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.74963397" ratioLeft="512" ratioRight="171" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
@@ -229,40 +230,164 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/HockeyApp/assets/www/index.html"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/HockeyApp/AndroidManifest.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HockeyApp/src/com/moxoed/HockeyAppActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/HockeyApp/AndroidManifest.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HockeyDemo/Hockey_src/net/hockeyapp/android/CheckUpdateTask.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Hockey/gen/net/hockeyapp/android/R.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Hockey/src/net/hockeyapp/android/CheckUpdateTask.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HockeyApp/src/com/moxoed/HockeyAppActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/PhoneGapHockeyAppPlugin/AndroidManifest.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PhoneGapHockeyAppPlugin/AndroidManifest.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PhoneGapHockeyAppPlugin/src/com/moxoed/PhoneGapHockeyAppPlugin/PhoneGapHockeyAppPluginActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PhoneGapHockeyAppPlugin/assets/www/index.html"/>
 </editors>
-<item historyLabel="MainActivity.java" index="0">
-<position info="not_deleted" x="876" y="0"/>
+<item historyLabel="MainActivity.java" index="1">
+<position info="not_deleted" x="353" y="0"/>
 </item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="180" y="0"/>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="830" y="0"/>
 </item>
-<item historyLabel="AndroidManifest.xml" index="2">
-<position info="not_deleted" x="1653" y="0"/>
+<item historyLabel="MainActivity.java" index="1">
+<position info="not_deleted" x="353" y="0"/>
 </item>
-<item historyLabel="HockeyAppActivity.java" index="3">
-<position info="not_deleted" x="1414" y="0"/>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="185" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="1">
+<position info="not_deleted" x="353" y="0"/>
 </item>
 <item historyLabel="AndroidManifest.xml" index="2">
 <position info="not_deleted" x="2185" y="0"/>
 </item>
-<item historyLabel="HockeyAppActivity.java" index="3">
-<position info="not_deleted" x="1414" y="0"/>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="356" y="0"/>
 </item>
-<item historyLabel="HockeyAppActivity.java" index="3">
-<position info="not_deleted" x="1412" y="0"/>
+<item historyLabel="AndroidManifest.xml" index="2">
+<position info="not_deleted" x="2185" y="0"/>
 </item>
-<item historyLabel="HockeyAppActivity.java" index="3">
-<position info="not_deleted" x="866" y="15"/>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="356" y="0"/>
 </item>
-<item historyLabel="HockeyAppActivity.java" index="3">
-<position info="not_deleted" x="927" y="0"/>
+<item historyLabel="MainActivity.java" index="3">
+<position info="not_deleted" x="226" y="25"/>
 </item>
-<item active="true" historyLabel="HockeyAppActivity.java" index="3">
-<position info="not_deleted" x="866" y="15"/>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="395" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="3">
+<position info="not_deleted" x="226" y="25"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="395" y="0"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="809" y="0"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="892" y="15"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="1242" y="15"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="1398" y="15"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="931" y="15"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="0">
+<position info="not_deleted" x="816" y="0"/>
+</item>
+<item historyLabel="CheckUpdateTask.java" index="4">
+<position info="not_deleted" x="910" y="0"/>
+</item>
+<item historyLabel="R.java" index="5">
+<position info="not_deleted" x="267" y="4"/>
+</item>
+<item historyLabel="R.java" index="5">
+<position info="not_deleted" x="310" y="8"/>
+</item>
+<item historyLabel="R.java" index="5">
+<position info="not_deleted" x="748" y="2"/>
+</item>
+<item historyLabel="R.java" index="5">
+<position info="not_deleted" x="1242" y="6"/>
+</item>
+<item historyLabel="CheckUpdateTask.java" index="6">
+<position info="not_deleted" x="3878" y="0"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="7">
+<position info="not_deleted" x="794" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="226" y="25"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="7">
+<position info="not_deleted" x="20" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="226" y="25"/>
+</item>
+<item historyLabel="HockeyAppActivity.java" index="7">
+<position info="not_deleted" x="66" y="0"/>
+</item>
+<item historyLabel="PhoneGapHockeyAppPlugin Manifest" index="9"/>
+<item historyLabel="AndroidManifest.xml" index="10">
+<position/>
+</item>
+<item historyLabel="PhoneGapHockeyAppPluginActivity.java" index="11">
+<position info="not_deleted" x="1263" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="226" y="25"/>
+</item>
+<item historyLabel="PhoneGapHockeyAppPluginActivity.java" index="11">
+<position info="not_deleted" x="283" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="PhoneGapHockeyAppPluginActivity.java" index="11">
+<position info="not_deleted" x="610" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="199" y="0"/>
+</item>
+<item historyLabel="PhoneGapHockeyAppPluginActivity.java" index="11">
+<position info="not_deleted" x="610" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="485" y="0"/>
+</item>
+<item historyLabel="PhoneGapHockeyAppPluginActivity.java" index="11">
+<position info="not_deleted" x="610" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="485" y="0"/>
+</item>
+<item historyLabel="PhoneGapHockeyAppPluginActivity.java" index="11">
+<position info="not_deleted" x="610" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="298" y="42"/>
+</item>
+<item historyLabel="PhoneGapHockeyAppPluginActivity.java" index="11">
+<position info="not_deleted" x="231" y="0"/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="10">
+<position info="not_deleted" x="1732" y="0"/>
+</item>
+<item historyLabel="index.html" index="12">
+<position info="not_deleted" x="180" y="0"/>
+</item>
+<item historyLabel="MainActivity.java" index="8">
+<position info="not_deleted" x="980" y="67"/>
+</item>
+<item active="true" historyLabel="PhoneGapHockeyAppPluginActivity.java" index="11">
+<position info="not_deleted" x="231" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -281,6 +406,27 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="index.html" tooltip="PhoneGapHockeyAppPlugin/assets/www/index.html">
+<persistable path="/PhoneGapHockeyAppPlugin/assets/www/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" tooltip="HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java">
+<persistable path="/HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PhoneGapHockeyAppPluginActivity.java" tooltip="PhoneGapHockeyAppPlugin/src/com/moxoed/PhoneGapHockeyAppPlugin/PhoneGapHockeyAppPluginActivity.java">
+<persistable path="/PhoneGapHockeyAppPlugin/src/com/moxoed/PhoneGapHockeyAppPlugin/PhoneGapHockeyAppPluginActivity.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="AndroidManifest.xml" tooltip="PhoneGapHockeyAppPlugin/AndroidManifest.xml">
+<persistable path="/PhoneGapHockeyAppPlugin/AndroidManifest.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CheckUpdateTask.java" tooltip="Hockey/src/net/hockeyapp/android/CheckUpdateTask.java">
+<persistable path="/Hockey/src/net/hockeyapp/android/CheckUpdateTask.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="R.java" tooltip="Hockey/gen/net/hockeyapp/android/R.java">
+<persistable path="/Hockey/gen/net/hockeyapp/android/R.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CheckUpdateTask.java" tooltip="HockeyDemo/Hockey_src/net/hockeyapp/android/CheckUpdateTask.java">
+<persistable path="/HockeyDemo/Hockey_src/net/hockeyapp/android/CheckUpdateTask.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HockeyAppActivity.java" tooltip="HockeyApp/src/com/moxoed/HockeyAppActivity.java">
 <persistable path="/HockeyApp/src/com/moxoed/HockeyAppActivity.java"/>
 </file>
@@ -289,9 +435,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="index.html" tooltip="HockeyApp/assets/www/index.html">
 <persistable path="/HockeyApp/assets/www/index.html"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MainActivity.java" tooltip="HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java">
-<persistable path="/HockeyDemo/src/net/hockeyapp/android/demo/MainActivity.java"/>
 </file>
 </mruList>
 </workbench>
