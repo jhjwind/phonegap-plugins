@@ -8,7 +8,4 @@ Make a PhoneGap App with http://www.phonegap.com/start#android
 Add HockeyKit with http://support.hockeyapp.net/kb/client-integration/hockeyapp-for-android
 
 Problems:
-multiple errors  of type
-Description	Resource	Path	Location	Type
-checkUpdateTask cannot be resolved	HockeyAppActivity.java	/HockeyApp/src/com/moxoed	line 29	Java Problem
-
+Finding out how to implement the plugin as class using HockeyKit : not the same as on iPhone :)
