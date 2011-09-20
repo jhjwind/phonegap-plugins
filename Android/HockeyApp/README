@@ -1,0 +1,14 @@
+ First attempt at creating HockeyApp Plugin
+
+Using Eclipse 3.7
+Android 2.2
+
+Ref:
+Make a PhoneGap App with http://www.phonegap.com/start#android
+Add HockeyKit with http://support.hockeyapp.net/kb/client-integration/hockeyapp-for-android
+
+Problems:
+multiple errors  of type
+Description	Resource	Path	Location	Type
+checkUpdateTask cannot be resolved	HockeyAppActivity.java	/HockeyApp/src/com/moxoed	line 29	Java Problem
+
