@@ -259,3 +259,16 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Users\ob.JNMAIN0
 
 !ENTRY org.eclipse.ui 4 4 2011-09-22 08:41:01.133
 !MESSAGE Invalid preference page path: XML Syntax
+!SESSION 2011-09-22 19:50:36.193 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_26
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/owenbrotherwood/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/owenbrotherwood/Documents/phonegap-plugins/Android/HockeyApp/jqmHockeyApp -keyring /Users/owenbrotherwood/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-09-22 19:50:40.210
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2011-09-22 19:50:49.131
+!MESSAGE Invalid preference page path: XML Syntax
