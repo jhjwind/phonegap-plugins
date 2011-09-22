@@ -9,6 +9,5 @@ Make a PhoneGap App with http://www.phonegap.com/start#android
 Add HockeyKit with http://support.hockeyapp.net/kb/client-integration/hockeyapp-for-android
 
 Problems:
-To get HockeyKit into the class com.moxoed.pgPlugin.hockeyapp ...
-- so one can call functions when one wants
-https://github.com/OwenBrotherwood/phonegap-plugins/blob/master/Android/HockeyApp/jqmHockeyApp/src/com/moxoed/pgPlugin/hockeyapp/HockeyApp.java
+hockeyGlue.checkForUpdates() is not working, even with just one statement: Log.d(...) 
+HockeyGlue is a class that should contain HockeyKit functions (rename at some stage)
