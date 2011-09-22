@@ -9,12 +9,8 @@ var failCb = function(){
 };
 
 
-checkForUpdate.prototype.hockeyApp = function(){
-    return PhoneGap.exec(function(){
-        passCb(),
-        failCb(),
-        'HockeyApp', 'checkForUpdate', []
-    });
+hockeyApp.prototype.checkForUpdate = function(){
+    return PhoneGap.exec(passCb, failCb, 'HockeyApp', 'checkForUpdate', []);
 };
 
 PhoneGap.addConstructor(function() {
