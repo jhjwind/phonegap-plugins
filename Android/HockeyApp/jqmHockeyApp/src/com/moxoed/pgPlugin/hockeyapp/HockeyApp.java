@@ -14,10 +14,9 @@ public class HockeyApp extends Plugin {
 		PluginResult result = null;
 		if (action.equals("checkForUpdate") ){
 			Log.d("HockeyApp", "checkForUpdate");
-			// checkForUpdates()
+			//checkForUpdates();
 			result = new PluginResult(Status.OK);
 		}
 		return result;
-		
    }
 }

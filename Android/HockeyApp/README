@@ -2,6 +2,7 @@
 
 Using Eclipse 3.7
 Android 2.2
+Calls Update at start: no "on-demand" yet ...
 
 Ref:
 Make a PhoneGap App with http://www.phonegap.com/start#android
@@ -9,4 +10,5 @@ Add HockeyKit with http://support.hockeyapp.net/kb/client-integration/hockeyapp-
 
 Problems:
 To get HockeyKit into the class com.moxoed.pgPlugin.hockeyapp ...
+- so one can call functions when one wants
 https://github.com/OwenBrotherwood/phonegap-plugins/blob/master/Android/HockeyApp/jqmHockeyApp/src/com/moxoed/pgPlugin/hockeyapp/HockeyApp.java
