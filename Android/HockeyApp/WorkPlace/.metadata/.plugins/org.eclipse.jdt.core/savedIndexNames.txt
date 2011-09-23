@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+/Users/owenbrotherwood/Desktop/HockeyAppPlugin/phonegap-plugins/Android/HockeyApp/WorkPlace/.metadata/.plugins/org.eclipse.jdt.core
-1122194515.index
-553815523.index
-11719872.index
