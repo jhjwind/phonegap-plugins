@@ -3,7 +3,7 @@ DIR="HockeyAppPlugin"
 mkdir $DIR
 cd $DIR
 git clone https://github.com/OwenBrotherwood/phonegap-plugins.git
-git clone ¡https://github.com/phonegap/phonegap.git
+git clone https://github.com/phonegap/phonegap.git
 
 mkdir HockeyAppKit
 cd HockeyAppKit
