@@ -1,0 +1,11 @@
+DIR="HockeyAppPlugin"
+
+mkdir $DIR
+cd $DIR
+git clone https://github.com/OwenBrotherwood/phonegap-plugins.git
+git clone ¡https://github.com/phonegap/phonegap.git
+
+mkdir HockeyAppKit
+cd HockeyAppKit
+git clone https://github.com/TheRealKerni/HockeyKit.git
+git clone https://github.com/TheRealKerni/QuincyKit.git
