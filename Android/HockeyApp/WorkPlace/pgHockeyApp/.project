@@ -30,4 +30,26 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>libs/phonegap-1.0.0.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-1-ECLIPSE_HOME/HockeyAppPlugin/phonegap/Android/phonegap-1.0.0.jar</locationURI>
+		</link>
+		<link>
+			<name>res/xml</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>assets/www/phonegap-1.0.0.js</name>
+			<type>1</type>
+			<locationURI>PARENT-1-ECLIPSE_HOME/HockeyAppPlugin/phonegap/Android/phonegap-1.0.0.js</locationURI>
+		</link>
+		<link>
+			<name>res/xml/plugins.xml</name>
+			<type>1</type>
+			<locationURI>PARENT-1-ECLIPSE_HOME/HockeyAppPlugin/phonegap/Android/xml/plugins.xml</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
