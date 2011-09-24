@@ -41,10 +41,5 @@
 			<type>1</type>
 			<locationURI>PARENT-4-PROJECT_LOC/phonegap/Android/phonegap-1.0.0.jar</locationURI>
 		</link>
-		<link>
-			<name>res/xml/plugins.xml</name>
-			<type>1</type>
-			<locationURI>PARENT-1-ECLIPSE_HOME/HockeyAppPlugin/phonegap-plugins/Android/HockeyApp/plugins.xml</locationURI>
-		</link>
 	</linkedResources>
 </projectDescription>

@@ -12,6 +12,9 @@ public class HockeyApp extends Plugin {
 		PluginResult result = null;
 		result = new PluginResult(Status.OK);
 		return result;
+		/*
+		 * one should check for action and call checkForUpdates();
+		 */
    }
 }
 
